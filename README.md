@@ -1,5 +1,7 @@
 # ESP32-C3 Joystick Reader
 
+<img src="https://raw.githubusercontent.com/easai/joystick-esp32/main/IMG_2466.jpeg" alt="ESP32 Joystick" width="300">
+
 This project reads analog and digital input from a joystick module using an ESP32-C3 DevKitM-1 board. It captures horizontal and vertical movement via analog pins and detects button presses through a digital input. The data is printed to the Serial Monitor for real-time feedback.
 
 ## Hardware Overview
